@@ -21,3 +21,4 @@ https://support.google.com/accounts/answer/27441?hl=ja&ref_topic=3382296
 |アカウント情報の確認|氏名とメールアドレスを確認します。|<img src="images/2_1_images/2_1_13.jpg" alt="image">|
 |規約の確認|よろしければ、「同意する」に進みます。||
 |ログイン|作成したアカウントでログインした状態で、Googleドライブが起動します。|<img src="images/2_1_images/2_1_15.jpg" alt="image">|
+|解説動画|以上を通して操作している動画です。||
