@@ -7,9 +7,9 @@ https://support.google.com/accounts/answer/27441?hl=ja&ref_topic=3382296
 |項目|やること|画面|
 |---|---|---|
 |スマホに「Googleドライブ」アプリを導入。|Androidは「Playストア」、iPhoneは「App Store」で、「Googleドライブ」と検索し、インストールします。|<img src="images/2_1_images/2_1_01.jpg" alt="image">|
-||パソコンのWebブラウザから、「Google アカウントのログインページ」でも同様に作業できます。||
+||パソコンのWebブラウザから、「Google アカウントのログインページ」でも同様に作業できます。https://www.google.co.jp/ |<img src="images/2_1_images/2_1_02.jpg" alt="image">|
 |アカウントの作成|「ログイン」から「アカウントを作成」に進みます。||
-|別のアカウントを追加|ログイン状態で起動する場合などは、右上のアイコンをクリックして、「別のアカウントを追加」に進みます。|<img src="images/2_1_images/2_1_04.jpg" alt="image">|
+|別のアカウントを追加|すでにログインした状態の場合は、右上のアイコンをクリックして、「別のアカウントを追加」に進みます。|<img src="images/2_1_images/2_1_04.jpg" alt="image">|
 |アカウントの種類は「自分用」を選択|「ビジネスの管理用」は、有料プランに加入しないかぎりは選択不要でしょう。|<img src="images/2_1_images/2_1_05.jpg" alt="image">|
 |「姓（省略可）」と「名」を入力|例えば「（省略）」「SNS自治会」とします。|<img src="images/2_1_images/2_1_06.jpg" alt="image">|
 |「生年月日」と「性別」を入力|例えば「2000/1/1」「指定しない」とします。このアカウントは共有する前提なので、ご自身の実際の誕生日とするる必要はありません。|<img src="images/2_1_images/2_1_07.jpg" alt="image">|
