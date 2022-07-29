@@ -24,7 +24,7 @@ SNS回覧板を始めてみませんか
 既存の個人アカウントとは別に新規作成を推奨します
 ## [2.2.LINE公式アカウントの作成](https://github.com/78tch/SNS_Kairanban/blob/main/2_2_LINE_OfficialAccount.md)
 用意するのはメールアドレスのみです。
-## 2.3.QRコードまたはリンクを周知
+## [2.3.QRコードまたはリンクを周知](https://github.com/78tch/SNS_Kairanban/blob/main/2_3_QRcode.md)
 参加者に、LINE公式アカウントを「友だち」登録してもらいます
   
 # 3.SNS回覧板の配信イメージ
@@ -51,7 +51,7 @@ PDFデータをGoogleドライブに保存し、共有リンクを生成しま�
 # 2.SNS回覧板の始め方イメージ
 ## [2.1.Googleアカウントの作成](https://github.com/78tch/SNS_Kairanban/blob/main/2_1_google_account.md)
 ## [2.2.LINE公式アカウントの作成](https://github.com/78tch/SNS_Kairanban/blob/main/2_2_LINE_OfficialAccount.md)
-## 2.3.QRコードまたはリンクを周知
+## [2.3.QRコードまたはリンクを周知](https://github.com/78tch/SNS_Kairanban/blob/main/2_3_QRcode.md)
   
 # 3.SNS回覧板の配信イメージ
 ## 3.1.電子回覧板（PDFデータ）を用意する
