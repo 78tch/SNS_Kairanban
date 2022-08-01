@@ -7,7 +7,7 @@ https://www.linebiz.com/jp/column/technique/20190418-3/
   
 |項目|やること|画面|
 |---|---|---|
-|LINEのホームページでアカウント作成|LINE公式アカウント、LINE Business ID などで検索します。LINE公式アカウントの「管理画面にログイン」や「lINE公式アカウントの開設（無料）」から、「LINE Business ID」画面を出します。|<img src="images/2_2_images/2_2_01.jpg" alt="image">|
+|LINEのホームページでアカウント作成|LINE公式アカウント、LINE Business ID などで検索します。LINE公式アカウントの「管理画面にログイン」や「LINE公式アカウントの開設（無料）」から、「LINE Business ID」画面を出します。|<img src="images/2_2_images/2_2_01.jpg" alt="image">|
 ||「アカウントを作成」「メールアドレスで登録」からメールアドレスを入力し、「登録用のリンクを送信」とします。ここでは、前段で作成したGメールを使用します。|<img src="images/2_2_images/2_2_02.jpg" alt="image">|
 ||メールで、「LINEビジネスID」登録用リンクが届くので、「登録画面に進む」とします。|<img src="images/2_2_images/2_2_03.jpg" alt="image">|
 ||「名前」と「パスワード」を入力し、登録します。「サービスに移動」から、管理画面に入れます。なお、ここで作成されたのは、「LINE Business ID」であり、ひとつの「LINE Business ID」に対して、100個までのLINE公式アカウントが作れます。|<img src="images/2_2_images/2_2_04.jpg" alt="image">|
