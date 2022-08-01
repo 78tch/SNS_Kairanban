@@ -18,6 +18,3 @@ https://www.linebiz.com/jp/column/technique/20190418-3/
 ||問題なければ「アカウントを作成」||
 |初期設定|適宜設定します。「チャット機能」はひとまずオフとしています。|<img src="images/2_2_images/2_2_10.jpg" alt="image">|
 |解説動画|以上を通して操作している動画です。||
-
-
-
