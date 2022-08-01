@@ -8,7 +8,7 @@ https://www.linebiz.com/jp/manual/OfficialAccountManager/gain-friends/
   
 |項目|やること|画面|
 |---|---|---|
-|LINEのホームページでアカウント作成|LINE公式アカウント、LINE Business ID などで検索します。LINE公式アカウントの「管理画面にログイン」や「lINE公式アカウントの開設（無料）」から、「LINE Business ID」画面を出します。https://account.line.biz/signup |<img src="images/2_3_images/2_3_01.jpg" alt="image">|
+|LINE公式アカウントの管理アプリで周知用のQRコードを作成|管理アプリを立ち上げ、「友だちを増やす」アイコンから、QRコード作成画面へ進みます。 |<img src="images/2_3_images/2_3_01.jpg" alt="image">|
 |||<img src="images/2_3_images/2_3_02.jpg" alt="image">|
 |||<img src="images/2_3_images/2_3_03.jpg" alt="image">|
 |||<img src="images/2_3_images/2_3_04.jpg" alt="image">|

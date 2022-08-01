@@ -16,7 +16,7 @@ https://www.linebiz.com/jp/column/technique/20190418-3/
 |LINE公式アカウントを作成|最初にログインすると、LINE公式アカウントの作成画面になります。ひとつのLINE Business ID に対して、100個までのLINE公式アカウントが作れますが、今回は1個しか作りません。|<img src="images/2_2_images/2_2_07.jpg" alt="image">|
 ||「SNS自治会SNS回覧板」「団体」「地域団体」「日本」等とします。|<img src="images/2_2_images/2_2_08.jpg" alt="image">|
 ||問題なければ「アカウントを作成」||
-|初期設定|適宜設定します。「チャット機能」はひとまずオフとします。|<img src="images/2_2_images/2_2_10.jpg" alt="image">|
+|初期設定|適宜設定します。「チャット機能」はひとまずオフとしています。|<img src="images/2_2_images/2_2_10.jpg" alt="image">|
 |解説動画|以上を通して操作している動画です。||
 
 
