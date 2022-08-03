@@ -19,3 +19,4 @@ https://guide.line.me/ja/friends-and-groups/add-qrurl.html
 |LINEアプリでトークを閲覧します|公式アカウントに追加されています。|<img src="images/2_3_images/2_3_07.jpg" alt="image">|
 |「あいさつメッセージ」が表示されています|「友だち登録」時に表示されるメッセージです。これは、管理アプリの「あいさつメッセージ」から編集できます。|<img src="images/2_3_images/2_3_08.jpg" alt="image">|
 ||「あいさつメッセージ」は、適宜編集できます。|<img src="images/2_3_images/2_3_09.jpg" alt="image">|
+|解説動画|以上を通して操作している動画です。||
