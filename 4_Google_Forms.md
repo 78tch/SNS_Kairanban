@@ -26,4 +26,7 @@ https://www.linebiz.com/jp/manual/OfficialAccountManager/broadcast/?list=7171
 |「送信」ボタンからリンクを取得|送信方法「リンク」タブで「URLを短縮」をONにしたうえで、リンクを「コピー」して、LINEの管理アプリに切り替えます。|<img src="images/4_images/4_06.jpg" alt="image">|
 |リンクを配信する|LINEの管理アプリで、「メッセージを配信する、＋追加」で「テキスト」とし、コピーしたリンクを貼り付けたうえで、補足メッセージも入力します。次回からは、「メッセージ配信」の「配信済み」から「コピー」とすると、手軽です。|<img src="images/4_images/4_07.jpg" alt="image">|
 ||「LINE VOOMに投稿」は、必要でない限りはOFFでよいでしょう。|<img src="images/4_images/4_08.jpg" alt="image">|
+|参加者がメッセージを見る|LINEのトークに、アンケートへのリンクが配信されます。||
+|参加者がアンケートに回答する|そのまま回答が可能です。||
+|運営者が結果を確認する|||
 |解説動画|以上を通して操作している動画です。||

@@ -24,4 +24,6 @@ https://www.linebiz.com/jp/manual/OfficialAccountManager/broadcast/?list=7171
 |リンクをコピーする|共有したいファイルがアップロードできたら、「リンクをコピー」して、LINEの管理アプリに切り替えます。ここではフォルダへのリンクでしていますが、ファイルへのリンクでもよいでしょう。|<img src="images/3_images/3_04.jpg" alt="image">|
 |リンクをLINE公式アカウントで配信する|LINEの管理アプリで、「メッセージを配信する、＋追加」で「テキスト」とし、コピーしたリンクを貼り付けたうえで、補足メッセージも入力します。次回からは、「メッセージ配信」の「配信済み」から「コピー」とすると、手軽です。|<img src="images/3_images/3_05.jpg" alt="image">|
 ||「LINE VOOMに投稿」は、必要でない限りはOFFでよいでしょう。|<img src="images/3_images/3_06.jpg" alt="image">|
+|参加者がメッセージを見る|参加者のスマホのLINEアプリに、SNS回覧板へのリンクが配信されます。|<img src="images/3_images/3_07.jpg" alt="image">|
+||リンクから、共有フォルダのなかにあるPDFを閲覧します|<img src="images/3_images/3_08.jpg" alt="image">|
 |解説動画|以上を通して操作している動画です。||

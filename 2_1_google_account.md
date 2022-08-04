@@ -1,5 +1,5 @@
 ## 2.1.Googleアカウントの作成
-SNS回覧板を試すにあたっては、既存の個人アカウントを使わず、新規作成することを想定しています。  
+SNS回覧板を試すにあたっては、既存の個人のGoogleアカウントは使わず、新規作成することを想定しています。  
 参考：Google公式のガイド  
 「Google アカウントの作成」  
 https://support.google.com/accounts/answer/27441?hl=ja&ref_topic=3382296
@@ -16,7 +16,7 @@ https://support.google.com/accounts/answer/27441?hl=ja&ref_topic=3382296
 ||ただし、13歳以上の生年月日である必要があります。||
 |Gmailアドレスの選択|提案されたものか、もしくは自分で「@gmail.com」の左側部分を指定することもできます。|<img src="images/2_1_images/2_1_09.jpg" alt="image">|
 |パスワードの指定|||
-|確認コードを受け取る|SMSメッセージを受け取る電話番号を指定し、よければ「次へ」|<img src="images/2_1_images/2_1_11.jpg" alt="image">|
+|確認コードを受け取る|SMSメッセージを受け取る電話番号を指定し、よければ「次へ」。すぐに確認コードが送信されてきますので、確認します。|<img src="images/2_1_images/2_1_11.jpg" alt="image">|
 |電話番号を追加|後でも変更できますので、ひとまず「スキップ」で進めます。|<img src="images/2_1_images/2_1_12.jpg" alt="image">|
 |アカウント情報の確認|氏名とメールアドレスを確認します。|<img src="images/2_1_images/2_1_13.jpg" alt="image">|
 |規約の確認|よろしければ、「同意する」に進みます。||
