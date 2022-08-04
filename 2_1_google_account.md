@@ -1,5 +1,7 @@
 ## 2.1.Googleアカウントの作成
 SNS回覧板を試すにあたっては、既存の個人のGoogleアカウントは使わず、新規作成することを想定しています。  
+https://www.google.co.jp/  
+  
 参考：Google公式のガイド  
 「Google アカウントの作成」  
 https://support.google.com/accounts/answer/27441?hl=ja&ref_topic=3382296

@@ -2,6 +2,7 @@
 
 LINE公式アカウントの管理アプリから、周知用のQRコードが簡単に作成できます。
 作成したQRコードを、参加者にLINEアプリで読み取ってもらえば、SNS回覧板への参加準備は完了です。  
+  
 参考：LINE公式のガイド  
 「友だち追加ガイド」（QRコードの発行方法）  
 https://www.linebiz.com/jp/manual/OfficialAccountManager/gain-friends/  
